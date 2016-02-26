@@ -1,0 +1,15 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'BluetoothFish' do
+
+pod 'SVProgressHUD', '~> 2.0-beta'
+
+pod 'YYKit', '~> 0.9.3'
+
+pod 'ReactiveCocoa', '~> 4.0.4-alpha-1'
+
+pod 'CYLTabBarController', '~> 1.0.1'
+
+end
+
